@@ -5,7 +5,6 @@ Este projeto é um assistente virtual desenvolvido com foco em eventos de Tecnol
 
 O assistente fornece informações sobre datas, temas, como participar, oportunidades de networking, comunidades envolvidas e muito mais — de forma clara, atualizada e acessível tanto para estudantes quanto profissionais da área.
 
-[screen-capture.webm](https://github.com/user-attachments/assets/2d7bdd4f-4784-40c1-94f6-8905a6803bc1)
 
 ---
 
@@ -54,13 +53,13 @@ Antes de começar, você vai precisar ter instalado na sua máquina:
 #### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/NataliaBento/ChatConferencia.git
 ```
 
 #### 2. Acesse a pasta do backend
 
 ```bash
-cd seu-repositorio/backend
+cd https://github.com/NataliaBento/ChatConferencia/backend
 ```
 
 #### 3. Instale as dependências do backend
