@@ -5,6 +5,9 @@ Este projeto é um assistente virtual desenvolvido com foco em eventos de Tecnol
 
 O assistente fornece informações sobre datas, temas, como participar, oportunidades de networking, comunidades envolvidas e muito mais — de forma clara, atualizada e acessível tanto para estudantes quanto profissionais da área.
 
+## 🎥 Demonstração
+
+[▶ Clique para assistir à demonstração do projeto](https://github.com/user-attachments/assets/07c715e6-3b94-418b-9e2c-cc624ebdde13)
 
 ---
 
@@ -59,7 +62,7 @@ git clone https://github.com/NataliaBento/ChatConferencia.git
 #### 2. Acesse a pasta do backend
 
 ```bash
-cd https://github.com/NataliaBento/ChatConferencia/backend
+cd ChatConferencia/backend
 ```
 
 #### 3. Instale as dependências do backend
@@ -93,5 +96,3 @@ npm start
 #### 7. Rode o frontend
 
 Abra o arquivo `frontend/index.html` no navegador para utilizar o assistente.
-
-
